@@ -1,4 +1,7 @@
+ https://wey730.github.io/calculadora-imc/
+ 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 <img width="1413" height="901" alt="Captura de Tela (52)" src="https://github.com/user-attachments/assets/04a4d297-34df-431e-a1f2-4b71e02a1cee" />
 
 # Calculadora de IMC
